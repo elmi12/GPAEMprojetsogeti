@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="MW38" name="groupe.com.aem.Testclient" skipped="0" tests="6" time="0.104" timestamp="2020-04-12T21:11:06">
+  <properties>
+    <property name="ant.library.dir" value="C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="13" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\ProgramData\chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-launcher.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-antlr.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-bcel.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-bsf.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-log4j.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-oro.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-regexp.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-resolver.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-apache-xalan2.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-commons-logging.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-commons-net.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-jai.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-javamail.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-jdepend.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-jmf.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-jsch.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-junit.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-junit4.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-junitlauncher.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-launcher.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-netrexx.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-swing.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-testutil.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant-xz.jar;C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="java.vm.specification.version" value="13" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="user.country" value="FR" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.1\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher tests" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\orsys" />
+    <property name="user.language" value="fr" />
+    <property name="sun.stderr.encoding" value="cp850" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2019-10-15" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-13.0.1" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="C:\Users\orsys\eclipse-workspace\GPAEMprojet" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="sun.stdout.encoding" value="cp850" />
+    <property name="ant.java.version" value="13" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="13.0.1+9" />
+    <property name="user.name" value="orsys" />
+    <property name="ant.file" value="C:\Users\orsys\eclipse-workspace\GPAEMprojet\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.invoked-targets" value="tests" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.core.lib" value="C:\ProgramData\Chocolatey\lib\ant\apache-ant-1.10.5\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\orsys\AppData\Local\Temp\" />
+    <property name="java.version" value="13.0.1" />
+    <property name="user.dir" value="C:\Users\orsys\eclipse-workspace\GPAEMprojet" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="C:\ProgramData\chocolatey\lib\ant\apache-ant-1.10.5" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-13.0.1\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Git\cmd;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\orsys\Documents\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;C:\Users\orsys\AppData\Local\Programs\Microsoft VS Code\bin;C:\tools\mysql\current\bin;C:\Users\orsys\Documents\apache-maven-3.6.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin;;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vm.version" value="13.0.1+9" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="57.0" />
+  </properties>
+  <testcase classname="groupe.com.aem.Testclient" name="testAddress" time="0.005" />
+  <testcase classname="groupe.com.aem.Testclient" name="testAge" time="0.0" />
+  <testcase classname="groupe.com.aem.Testclient" name="testNom" time="0.001" />
+  <testcase classname="groupe.com.aem.Testclient" name="testSexe" time="0.0" />
+  <testcase classname="groupe.com.aem.Testclient" name="testTelp" time="0.0" />
+  <testcase classname="groupe.com.aem.Testclient" name="test" time="0.001" />
+  <system-out><![CDATA[1avant test
+1apres test
+2avant test
+2apres test
+3avant test
+3apres test
+4avant test
+4apres test
+5avant test
+5apres test
+6avant test
+6apres test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
